@@ -1,10 +1,10 @@
 """
 ! 🐍 Python Scripting Roadmap
 1. Basics (Foundation)
-    1.1 Python Intro
-    1.2 Python Get Started
-    1.3 Python Syntax
-    1.4 Python Comments
+    * 1.1 Python Intro
+    * 1.2 Python Installation
+    * 1.3 Python Syntax & Python Statements
+    * 1.4 How to Comment in Python
     *1.5 Python Variables
     *1.6 Python Data Types (Numbers, Strings, Booleans)
     1.7 Python Casting
@@ -35,10 +35,10 @@
     Regular Expressions (re module) → Pattern matching in text
 
 6. File Handling (Core for Scripting)
-    Python File Handling
-    Python Read Files
-    Python Write/Create Files
-    Python Delete Files
+    *Python File Handling
+    *Python Read Files
+    *Python Write/Create Files
+    *Python Delete Files
     Python JSON
     Shutil & Pathlib → File operations, path handling
     ConfigParser / YAML / ENV handling → Manage config files
