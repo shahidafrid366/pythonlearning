@@ -3,10 +3,8 @@
 List comprehension offers a shorter syntax when you want to create a new list based on the values of an existing list.
 
 ? Example:
-Based on a list of fruits, you want a new list, containing only the fruits with the letter
-"a" in the name.
-Without list comprehension you will have to write a for statement with a conditional test
-inside:
+Based on a list of fruits, you want a new list, containing only the fruits with the letter "a" in the name.
+Without list comprehension you will have to write for statement with a conditional test inside:
 
     ? Example Program:
     fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
@@ -19,6 +17,7 @@ inside:
     print(newlist)
 
     ? Output: ['apple', 'banana', 'mango']  # This will print fruits that has only a letter in it
+
 
     * With list comprehension you can do all that with only one line of code:
     fruits = ["apple", "banana", "cherry", "kiwi", "mango"]

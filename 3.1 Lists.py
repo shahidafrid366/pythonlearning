@@ -21,7 +21,7 @@ Examples: fruits = ["apple", "banana", "cherry"]  # List with values
    and that order will not change.
 -> If you add new items to a list, the new items will be placed at the end of the list.
 
-! `Note: Note: There are some list methods [append(), clear(), insert(), remove() etc.]
+! Note: There are some list methods [append(), clear(), insert(), remove() etc.]
 ! that will change the order, but in general: the order of the items will not change.
 
 ? Changeable

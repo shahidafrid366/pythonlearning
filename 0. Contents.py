@@ -1,13 +1,13 @@
 """
-! 🐍 Python Scripting Roadmap
-1. Basics (Foundation)
+Python Scripting Roadmap
+* 1. Basics (Foundation)
     * 1.1 Python Intro
     * 1.2 Python Installation
     * 1.3 Python Syntax & Python Statements
     * 1.4 How to Comment in Python
     *1.5 Python Variables
     *1.6 Python Data Types (Numbers, Strings, Booleans)
-    1.7 Python Casting
+    * 1.7 Python Casting
     *1.8 Python Operators
 
 * 2. Control Flow (Decision Making & Loops)
