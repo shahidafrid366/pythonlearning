@@ -1,26 +1,31 @@
-# Python Syntax
-# Python syntax can be executed by writing directly in the Command Line
-# >>> print("Hello, World!")
-# Hello, World!
+""" 
+Python Syntax
+-------------
+Python syntax can be executed by writing directly in the Command Line
+>>> print("Hello, World!")
+Hello, World!
 
-# Or by creating a python file on the server, using the .py file extension, and running it in the Command Line:
-# python myfile.py
+(Or) by creating a python file on the server, using the .py file extension, and running it in the Command Line:
+python myfile.py
+"""
 
 
-# Python Indentation
-# Indentation refers to the spaces at the beginning of a code line.
-# Where in other programming languages the indentation in code is for readability only, the indentation in Python is very important.
-# Python uses indentation to indicate a block of code.
-
+"""
+Python Indentation
+------------------
+Indentation refers to the spaces at the beginning of a code line.
+Where in other programming languages the indentation in code is for readability only, the indentation in Python is very important.
+Python uses indentation to indicate a block of code.
 # Example:
 if 5 > 2:
     print("Five is greater than two")
 
-# Python will give you an error if you skip the indentation
-# Example:
-# if 5 > 2:
-# print("Five is greater than two")
-# The number of spaces is up to you as a programmer, the most common use is four, but it has to be at least one.
+Python will give you an error if you skip the indentation
+Example:
+if 5 > 2:
+print("Five is greater than two")
+The number of spaces is up to you as a programmer, the most common use is four, but it has to be at least one.
+
 
 # The number of spaces is up to you as a programmer, the most common use is four, but it has to be at least one
 # if 5 > 2:
@@ -29,13 +34,16 @@ if 5 > 2:
 #         print("Five is greater than two!")
 
 # You have to use the same number of spaces in the same block of code, otherwise Python will give you an error
+"""
 
 
-## Print Statements
+# Print Statements
+# -----------------
 print("Hello World in with basic structure")
 
 print("Print Statement with single quotes")  # Print statement with single quotes
 print("Print Statement with double quotes")  # Print statement with double quotes
+
 
 # Semicolons (Optional, Rarely Used)
 # Semicolons are optional in Python. You can write multiple statements on one line by separating them with ;
@@ -53,6 +61,7 @@ print("Bye bye!")
 
 
 # Printing using \n
+# -----------------
 print(
     "Hello World \n" "New line\n" "Another line"
 )  # This will print two statements in two different lines
@@ -121,7 +130,8 @@ second line"""
 )
 
 
-## Escape characters
+# Escape characters
+# -----------------
 print(
     """Escape Characters:
 \\n - Starts a new line
